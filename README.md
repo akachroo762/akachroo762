@@ -1,6 +1,6 @@
 ### Hi there, I'm Aditya Kachroo - aka Eddy 👋
 
-[![Website](https://mountaintopwebdesign.com/wp-content/uploads/2018/05/slow-site-speed-hosting-own-video-1-845x314.jpg)](https://akachroo762.github.io/)
+[![Website](https://www.bkkfrenchtouch.com/wp-content/uploads/2018/01/visitwebsite.png)](https://akachroo762.github.io/)
 
 ## I'm a Cloud Architect, DevOps Enthusiast and an avid Learner!!
 
