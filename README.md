@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://media.pitchfork.com/photos/5fdcbf043093e196b7c225e6/2:1/w_2560%2Cc_limit/Eminem.jpg" alt="Lose Yourself" width="250" />](https://open.spotify.com/album/3CjuTytLZz3G9znXt2rJgU?highlight=spotify:track:7MJQ9Nfxzh8LPZ9e9u68Fq)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Lose Yourself" width="250" />](https://open.spotify.com/album/3CjuTytLZz3G9znXt2rJgU?highlight=spotify:track:7MJQ9Nfxzh8LPZ9e9u68Fq)
 
 ### Connect with me:
 
