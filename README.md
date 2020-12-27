@@ -49,12 +49,9 @@
 <br />
 
 ---
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=akachroo762&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=akachroo762&show_icons=true&theme=tokyonight" />
 
-</details>
 
 [website]: https://akachroo762.github.io/
 [twitter]: https://twitter.com/adisoms94
