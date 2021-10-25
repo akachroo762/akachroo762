@@ -4,7 +4,7 @@
 
 ## I'm a Cloud Architect, DevOps Enthusiast and an avid Learner!!
 
-- 🌱 I’m currently learning Python, TOGAF standard and Kubernetes 🤣
+- 🌱 I’m currently learning Machine Learning, TOGAF standard and C#
 - 👯 I’m looking to collaborate with other cloud enthusiasts
 - 🥅 2020 Goals: Keep Calm and Continue Learning
 - ⚡ Fun fact: I love to swim, play tennis and meet people
@@ -29,8 +29,8 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Terraform" width="26px" src="https://aws-blog.de/img/2019/05/terraform.png" />][cssplaylist]
-[<img align="left" alt="Kubernetes" width="26px" src="https://tr1.cbsistatic.com/hub/i/r/2020/03/18/4d73d82f-493a-4932-bdb0-784a0447dbc2/thumbnail/770x578/3f4a4ba7dbfc4e83bab86eb1cbe9c688/kubernetescover.jpg" />][jsplaylist]
-[<img align="left" alt="AWS" width="26px" src="https://www.eagleonline.com/wp-content/uploads/AWS.jpg" />][reactplaylist]
+[<img align="left" alt="Kubernetes" width="26px" src="https://cdn.jessicadeen.com/content/images/k8s_navkej.png" />][jsplaylist]
+[<img align="left" alt="AWS" width="26px" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102017/logo_0.png?17TK91b1B6OvV2MFrCLfukw1c8oEaNr6&itok=vsanFiUj" />][reactplaylist]
 [<img align="left" alt="Azure" width="26px" src="https://rnd-solutions.net/wp-content/uploads/2018/06/azure-icon-250x250.png" />][webdevplaylist]
 [<img align="left" alt="Oracle Cloud" width="26px" src="https://cdn.vanderbilt.edu/vu-news/files/20190417211117/Oracle_Cloud_logo-600x350.jpg" />][webdevplaylist]
 [<img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png" />][webdevplaylist]
